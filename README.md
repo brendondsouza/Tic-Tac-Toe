@@ -16,7 +16,7 @@
 
 [@alexisintech](https://github.com/alexisintech), [@Ethodeus](https://github.com/Ethodeus), [@bytesbybianca](https://github.com/bytesbybianca), [@LucasMERN](https://github.com/LucasMERN), [@TonyHerbert22ATX](https://github.com/TonyHerbert22ATX), [@20jasper](https://github.com/20jasper) and I (@goa2usa) collaborated to build this project. We split into two groups—one group built the win and draw condition validation algorithms while the other styled the site and added support for user input.
 
-<h2 align="center">Techs used:</h2>
+<h2 align="center">Tech used:</h2>
 <br>
 <div align="center">
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
