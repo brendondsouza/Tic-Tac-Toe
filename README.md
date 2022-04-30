@@ -1,4 +1,4 @@
-<h1 align="center">2–player Tic-Tac-Toe | <a href="https://tonyherbert22atx.github.io/Tic-Tac-Toe/">Visit here!</a></h1>
+<h1 align="center">2–player Tic-Tac-Toe | <a href="https://2-player-tic-tac-toe.netlify.app">Visit here!</a></h1>
 
 
 <div align="center">
