@@ -14,7 +14,7 @@
 
 ## How It's Made:
 
-[@alexisintech](https://github.com/alexisintech), [@Ethodeus](https://github.com/Ethodeus), [@bytesbybianca](https://github.com/bytesbybianca), [@LucasMERN](https://github.com/LucasMERN), [@brendondsouza](https://github.com/brendondsouza), [@20jasper](https://github.com/20jasper) and I collaborated to build this project. We split into two groups—one group built the win and draw condition validation algorithms while the other styled the site and added support for user input.
+[@alexisintech](https://github.com/alexisintech), [@Ethodeus](https://github.com/Ethodeus), [@bytesbybianca](https://github.com/bytesbybianca), [@LucasMERN](https://github.com/LucasMERN), [@TonyHerbert22ATX](https://github.com/TonyHerbert22ATX), [@20jasper](https://github.com/20jasper) and I (@goa2usa) collaborated to build this project. We split into two groups—one group built the win and draw condition validation algorithms while the other styled the site and added support for user input.
 
 <h2 align="center">Techs used:</h2>
 <br>
