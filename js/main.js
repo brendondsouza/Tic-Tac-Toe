@@ -1,3 +1,4 @@
+//select game area
 const keys = document.querySelector(".gamearea");
 let currentPlayer = firstPlayer();
 document.querySelector(
